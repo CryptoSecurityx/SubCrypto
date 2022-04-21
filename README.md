@@ -9,6 +9,7 @@ Utilizacao
 https://pypi.org/project/requests
 
 ~ biblioteca sys foi utilizada para pegar os argumentos do usuario
+
 ~ requests foi utilizada para fazer requisicoes web.
 
 ~ apt-get install python3-pip 
