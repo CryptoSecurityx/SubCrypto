@@ -8,7 +8,11 @@
 # Como Funciona ~
 Ferramenta Feita em Python para Enumeracao de Subdominios com Worldlist.
 
-Como Utilizar
+
+  
+  ![image](https://user-images.githubusercontent.com/104122295/164391221-e6038af3-791d-4b9a-8a3d-41b2b192bf92.png)
+
+# Como Utilizar
 
 https://pypi.org/project/requests
 
@@ -21,5 +25,3 @@ https://pypi.org/project/requests
 ~ pip3 install requests sys
 
 ~ python3 subcrypto.py <dominio> <wordlist>
-  
-  ![image](https://user-images.githubusercontent.com/104122295/164391221-e6038af3-791d-4b9a-8a3d-41b2b192bf92.png)
