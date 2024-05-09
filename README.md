@@ -5,7 +5,6 @@
 
 
   
-# Como Funciona | Description  ~
 - Ferramenta Feita em Python para Enumeracao de Subdominios com Worldlist.
 
   ![image](https://user-images.githubusercontent.com/104122295/164391221-e6038af3-791d-4b9a-8a3d-41b2b192bf92.png)
