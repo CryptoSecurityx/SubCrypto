@@ -1,4 +1,4 @@
-# Simple Sub crypto
+# SubCryptoHunter
 
 
   ![image](https://user-images.githubusercontent.com/104122295/164391126-c1fade44-acb7-4d15-b345-3564e034849f.png)
